@@ -1,3 +1,5 @@
+*Just for fun. See 1:43 https://radio-t.com/p/2025/05/10/podcast-960/*
+
 # GitLab File Uploader
 
 A simple GUI application to upload files to a GitLab repository.
